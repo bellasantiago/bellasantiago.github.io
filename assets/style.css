@@ -1,0 +1,16 @@
+header {
+  background-color: rgba(255, 255, 255, 0.63);
+  padding: 25px;
+  margin: 10px;
+  font-size: 40px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-weight: bold;
+  text-align: center;
+}
+
+body {
+  background-image: url(../images/main-background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
