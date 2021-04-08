@@ -4,7 +4,7 @@
   ---
 
   ## Description📒
-  Web Portfolio
+  Bella Santiago's Portfolio
 
   ---
 
@@ -29,18 +29,6 @@
   ## Live-Link💡
   
   Here's the deployed portfolio. [ClickMe](https://bellasantiago.github.io/)
-
-  ---
-
-  ## Contributors🧑‍💻👩‍💻
-  
-  Bella Santiago
-  
-  ---
-
-  ## Future Contributions💡
-
-  For future contributions, please contact the owner.
 
   ---
 
