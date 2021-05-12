@@ -13,7 +13,7 @@ function Languages() {
                 <div className="row">
                     <div className="col-lg-3 col-md-6 mb-5 mb-lg-0">
                         <span className="service-icon rounded-circle mx-auto mb-3">
-                            <i className="fab fa-html5"></i>
+                            <i class="fab fa-html5"></i>
                         </span>
                         <h4>
                             <strong>HTML</strong>
@@ -24,7 +24,7 @@ function Languages() {
                     </div>
                     <div className="col-lg-3 col-md-6 mb-5 mb-lg-0">
                         <span className="service-icon rounded-circle mx-auto mb-3">
-                            <i className="fab fa-css3-alt"></i>
+                            <i class="fab fa-css3-alt"></i>
                         </span>
                         <h4>
                             <strong>CSS</strong>
@@ -35,7 +35,7 @@ function Languages() {
                     </div>
                     <div className="col-lg-3 col-md-6 mb-5 mb-md-0">
                         <span className="service-icon rounded-circle mx-auto mb-3">
-                            <i className="fab fa-js-square"></i>
+                            <i class="fab fa-js-square"></i>
                         </span>
                         <h4>
                             <strong>JavaScript</strong>
@@ -46,7 +46,7 @@ function Languages() {
                     </div>
                     <div className="col-lg-3 col-md-6">
                         <span className="service-icon rounded-circle mx-auto mb-3">
-                            <i className="fas fa-server"></i>
+                            <i class="fas fa-server"></i>
                         </span>
                         <h4>
                             <strong>MySQL</strong>
