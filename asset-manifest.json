@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.987d38f0.chunk.css",
+    "main.js": "/static/js/main.7ba01780.chunk.js",
+    "main.js.map": "/static/js/main.7ba01780.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ecdb6b2e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ecdb6b2e.js.map",
+    "static/js/2.0c86e364.chunk.js": "/static/js/2.0c86e364.chunk.js",
+    "static/js/2.0c86e364.chunk.js.map": "/static/js/2.0c86e364.chunk.js.map",
+    "static/js/3.a4867918.chunk.js": "/static/js/3.a4867918.chunk.js",
+    "static/js/3.a4867918.chunk.js.map": "/static/js/3.a4867918.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.987d38f0.chunk.css.map": "/static/css/main.987d38f0.chunk.css.map",
+    "static/js/2.0c86e364.chunk.js.LICENSE.txt": "/static/js/2.0c86e364.chunk.js.LICENSE.txt",
+    "static/media/simple-line-icons.css": "/static/media/Simple-Line-Icons.f1515a45.svg",
+    "static/media/stylish-portfolio.css": "/static/media/bg-masthead.8a3c5c5b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ecdb6b2e.js",
+    "static/js/2.0c86e364.chunk.js",
+    "static/css/main.987d38f0.chunk.css",
+    "static/js/main.7ba01780.chunk.js"
+  ]
+}
