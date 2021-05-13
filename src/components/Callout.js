@@ -1,5 +1,4 @@
 import React from "react";
-import Pdf from "../doc/bellaSantiago.pdf"
 
 function Callout() {
   return (
