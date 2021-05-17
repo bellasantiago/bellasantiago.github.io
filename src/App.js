@@ -1,5 +1,4 @@
 import React from 'react';
-// import { Router } from "react-router-dom";
 import Top from './components/Top';
 import About from './components/About';
 import Languages from './components/Languages';

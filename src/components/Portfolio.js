@@ -48,7 +48,7 @@ function Hero() {
 
                                 <div className="col-lg-6">
                                     {/* eslint-disable-next-line */}
-                                    <a className="portfolio-item" href="https://github.com/bellasantiago/budget-tracker" target="_blank">
+                                    <a className="portfolio-item" href="https://github.com/bellasantiago/book-search" target="_blank">
                                         <img className="img-fluid" src="img/portfolio-6.png" alt="" />
                                     </a>
                                 </div>
